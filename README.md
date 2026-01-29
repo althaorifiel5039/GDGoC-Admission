@@ -15,5 +15,5 @@ Berikut adalah dokumentasi analisis data eksperimen laboratorium Nanoteknologi y
 > Visualisasi data XRD (X-Ray Diffraction) yang ditumpuk (stacked) untuk membandingkan pergeseran puncak difraksi antar sampel yang berbeda konsentrasi.
 
 ### 3. Linear Regression & Graphing
-*(Ganti tulisan ini dengan nama file gambarmu, misal: graph.png)*
+*UV-Vis KLOR dan KLOR40*
 > Analisis regresi linear untuk menentukan band gap material dari data UV-Vis Spectroscopy.
